@@ -1,0 +1,6 @@
+temperature,humidity,pressure,wind_speed,rainfall,next_day_rainfall
+27.5,78,1005,12,8,12
+29.1,72,1008,10,2,4
+25.8,84,1002,15,18,22
+30.2,68,1010,8,0,1
+26.4,81,1004,14,11,16
