@@ -1,0 +1,11 @@
+crop,market,month,temperature,rainfall,humidity,price,arrival,demand
+Potato,Jalpaiguri,1,18.5,8.2,74,2100,1250,1420
+Tomato,Jalpaiguri,1,19.2,7.5,72,3200,850,980
+Cabbage,Jalpaiguri,1,18.1,8.8,76,2300,950,1100
+Cauliflower,Jalpaiguri,1,17.8,9.1,78,2800,720,900
+Potato,Medinipur,1,21.4,5.8,68,1950,1800,2100
+Tomato,Medinipur,1,22.1,6.2,70,3100,920,1250
+Onion,Medinipur,1,21.8,5.5,67,2700,1400,1600
+Brinjal,Medinipur,1,22.5,5.9,69,2750,750,1050
+Potato,Bolpur,1,19.5,6.5,71,2050,1350,1500
+Tomato,Bolpur,1,21.0,7.0,73,3000,800,1100
